@@ -36,7 +36,7 @@ TO-DO
 
 ```bash
 # prep environment
-conda env create -f environment.yml
+conda env create -f environment_droplet_mlenv.yml
 ```
 
 **Inference**
