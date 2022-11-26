@@ -35,7 +35,8 @@ TO-DO
 **Install**
 
 ```bash
-# TODO - prep environment
+# prep environment
+conda env create -f environment.yml
 ```
 
 **Inference**
