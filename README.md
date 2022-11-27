@@ -57,7 +57,8 @@ Official code for 🔥 Unsupervised Wildfire Change Detection based on Contrasti
 **Install**
 
 ```bash
-# TODO - prep environment
+# prep environment
+conda env create -f environment_droplet_mlenv.yml
 ```
 
 **Training**
