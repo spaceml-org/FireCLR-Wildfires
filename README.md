@@ -15,9 +15,10 @@ Official code for 🔥 Unsupervised Wildfire Change Detection based on Contrasti
 </tr></table>
 <p align="center">
 <p align="center">
-  <a href="https://arxiv.org/abs/???">NeurIPS workshop paper [WIP]</a> •
+  <a href="https://arxiv.org/abs/2211.14654">NeurIPS workshop paper</a> •
   <a href="https://colab.research.google.com/drive/1-VHLPVyoXo8yXEAgNbR9pphAVB8nly1A?usp=sharing">Quick Colab Example <img src="https://colab.research.google.com/assets/colab-badge.svg" height=16px> </a>
 </p>
+
 
 
 
@@ -94,7 +95,14 @@ Indication of the severely burned areas (white/black ash) at the central (slight
 ## Citation
 
 If you find FireCLR useful in your research, please consider citing the following paper:
+```latex
+@inproceedings{fireclr2022,
+	title = {Unsupervised Wildfire Change Detection based on Contrastive Learning},
+  author = {Zhang, Beichen and Wang, Huiqi and Alabri, Amani and Bot, Karol and McCall, Cole and Hamilton, Dale and Růžička, Vít},
+  booktitle = {Artificial {Intelligence} for {Humanitarian} {Assistance} and {Disaster} {Response} {Workshop}, 36th {Conference} on {Neural} {Information} {Processing} {Systems} ({NeurIPS} 2022), {New Orleans}, {USA}},
+  month = nov,
+  year = {2022},
+  url = {https://arxiv.org/abs/2211.14654},
+  doi = {10.48550/ARXIV.2211.14654}
+}
 ```
-@inproceedings{fireclr2022} [TODO]
-```
-
