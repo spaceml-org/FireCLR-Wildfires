@@ -73,11 +73,11 @@ The scripts of the validation for the downstream tasks on detecting the changes 
 
 **Pre-trained models**
 
-We provided our pre-trained models based on the Sentinel-2 and PlanetScope at [here](https://drive.google.com/drive/folders/12Tpzs2poCqG0aTOYpQzT8QbPhB78DNRd?usp=sharing) if you would like to use them to reproduce the validation or transfer it on applying to other downstream tasks.
+We provided our pre-trained models based on the Sentinel-2 and PlanetScope at [here](https://drive.google.com/file/d/1VZ5r3XV5MdE6r9o2sLImIswnxd0pdEvv/view?usp=share_link) if you would like to use them to reproduce the validation or transfer it on applying to other downstream tasks.
 
 **Inference**
 
-To start using our models for inference, it's best to start with the prepared notebooks ([Sentinel-2](notebooks/downstream_task/S2_Downstream_validation.ipynb), [PlanetScope](notebooks/downstream_task/PS_Downstream_validation.ipynb)), which employs our annotated dataset for the burned severity and evaluates the [predicted cosine distance maps](https://drive.google.com/drive/folders/1m42dTLjbNRrc7-jnUQ7-jXSt-XDb99KY?usp=sharing) from the pre-trained models based on Sentinel-2 and PlanetScope. The Shapefiles of the manually annotated labels are available at [here](https://drive.google.com/drive/folders/1vIW3PNQND4fN1hZleIhNlZuAyUtBfPEa?usp=sharing).
+To start using our models for inference, it's best to start with the prepared notebooks ([Sentinel-2](notebooks/downstream_task/S2_Downstream_validation.ipynb), [PlanetScope](notebooks/downstream_task/PS_Downstream_validation.ipynb)), which employs our annotated dataset for the burned severity and evaluates the [predicted cosine distance maps](https://drive.google.com/file/d/1ImQ2KL7JljXr2zuaNwPQQ9ganop9Q1lZ/view?usp=sharing) from the pre-trained models based on Sentinel-2 and PlanetScope. The Shapefiles of the manually annotated labels are available at [here](https://drive.google.com/file/d/1Rokyq1tG10X6rNjTeQUgQWqlSGQ2WIm5/view?usp=sharing).
 
 ### Demo
 
