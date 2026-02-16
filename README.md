@@ -16,7 +16,7 @@ Official code for 🔥 Unsupervised Wildfire Change Detection based on Contrasti
 <p align="center">
 <p align="center">
   <a href="https://arxiv.org/abs/2211.14654">NeurIPS workshop paper</a> •
-  <a href="https://colab.research.google.com/drive/1-VHLPVyoXo8yXEAgNbR9pphAVB8nly1A?usp=sharing">Quick Colab Example <img src="https://colab.research.google.com/assets/colab-badge.svg" height=16px> </a>
+  <a href="https://colab.research.google.com/github/spaceml-org/FireCLR-Wildfires/blob/main/notebooks/FireCLR_Demo.ipynb">Quick Colab Example <img src="https://colab.research.google.com/assets/colab-badge.svg" height=16px> </a>
 </p>
 
 
